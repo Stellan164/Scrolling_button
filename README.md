@@ -11,4 +11,4 @@ Lightweight - <5kb minified, zero dependencies
 
 Accessible - Full keyboard navigation and ARIA support
 
-TypeScript Ready - Includes type definitions
+
